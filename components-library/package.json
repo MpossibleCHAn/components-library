@@ -1,0 +1,29 @@
+{
+  "name": "components-library",
+  "version": "1.0.0",
+  "description": "A repository of self-written components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MpossibleCHAn/components-library.git"
+  },
+  "author": "chanhf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MpossibleCHAn/components-library/issues"
+  },
+  "homepage": "https://github.com/MpossibleCHAn/components-library#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-changed": "^3.2.0",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-less": "^3.5.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.6.4"
+  }
+}
